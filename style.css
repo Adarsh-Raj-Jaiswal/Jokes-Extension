@@ -1,0 +1,20 @@
+body {
+  width: 200px;
+  background-color: lightblue;
+  display: flex;
+  border-radius: 100px;
+  padding: 10px;
+  justify-content: center;
+}
+
+p {
+  display:inline-flexbox;
+  margin: auto 2px;
+  font-size: 22px;
+  font-style: italic;
+  font-weight: 800;
+  color: blue;
+  border: solid white 5px;
+  border-radius: 10px;
+  padding: 10px;
+}
